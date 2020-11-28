@@ -1,6 +1,6 @@
 #include <FastLED.h>
 #define NUMBER_LEDS 4
-#define LED_PIN     6
+#define LED_PIN     5
 #define LED_TYPE    WS2811
 #define COLOR_ORDER GRB
 const CRGB GREEN = CRGB::Green;
